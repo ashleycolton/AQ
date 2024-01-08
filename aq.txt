@@ -1,0 +1,59 @@
+#farming guide
+https://web.archive.org/web/20161028063306/http://www.trb1965.com/trb1965/plm.php
+https://aq-char-info.firebaseapp.com/
+
+#monster id
+Might Shadow Roc(148): 3,220,000exp/644,100gold 
+House ID# 35950899 
+Might Shadow Roc(148): 2,000,000exp/644,100gold
+House ID# 45387657 
+Drakath level 30 farm
+
+nerfkitten 1 shot with boulderdash level 50 farm
+House ID# 52073788 
+shadow roc Level 55
+House ID# 1330392 
+#autobattle
+ultimon 8922
+
+    15-30: Sizzler-3948 Exp
+    31-49: Drakath the Undead Dragon Lvl 65-2423 Exp
+    50-84: Drakath the Undead Dragon Lvl 100-31,029 Exp
+    85-89: Tyrant King Lvl 105-29,134 Exp
+    90-105: Am-Boss Lvl 100-19,597 Exp
+    106-109: Queen Hybee Lvl 106-41,983 Exp
+    110-125: Tyrant King Lvl 130-252,469 Exp
+    126-129: Queen Hybee Lvl 126-231,958 Exp
+    130-145: Am-Boss Lvl 140-606,588 Exp
+    146-150: Queen Hybee Lvl 146-1,331,921 Exp
+
+#House Guard Farming:
+
+    Nerfkitten Lvl 90-23,980 Exp
+    Nerfkitten Scion Lvl 130-731,357 Exp
+    Mighty Shadow Gogg Lvl 148-2,061,000 Exp
+    Mighty Shadow Roc Lvl 148-3,220,000 Exp
+
+#Shop ID
+846 Diamonds and Explosions (fire and dark spell D burst)
+1159 Burning Solstice: The Greatest Warrior II (carnage boost melee range and mana)
+1228 memorial shop (purple rain, nerfed)
+1139 book of burns (charging staff)
+272 kindred (charge armor water)
+1283 once upon a scheme (overdrive energy armor)
+1092 geocastellum robes (defensive stack armor)
+1254 dark shield x2
+1252 haunted shield from above (lv 150)
+
+8 Guardian shop - (item essence orb - gain sp)
+682 ultimon 3 - (shadow feeder pendant)
+
+Shields:
+935 Gemini Monks (gemini shield earth/wind)
+1362 devourer saga : A day at the inn(carpe shield)
+583 Ultimon Part 2 (daylight saving time shield light/dark)
+
+947 Caecus pyromancer bloodmage armor
+847 gogg helm
+1091 sizzler xplosion
+32 Wizard Class pyromancer

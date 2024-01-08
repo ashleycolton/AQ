@@ -1,0 +1,1341 @@
+Happy questing!
+Shop ID's (Updated 4/8/2023)
+==========
+1 Aria's Pet Shop
+2 Advanced Magic
+3 Yulgar's Shop
+4 Shop Restricted to Developers Only (Blank Shop)
+5 Robina's Basic Shop
+6 Wizard Games 1
+7 Drakel Market
+8 Guardian
+9 Discount Shop
+10 ShadowSlayer Shop
+11 Vampragon
+12 Safiria
+13 Galanoth
+14 Beginner Magic
+15 Paladin Storeroom
+16 Yulgar's Back Room
+17 Mage Class Shop
+18 Z-Token Shop
+19 BoneCruncher Mace
+20 Hybee Spear
+21 Dragonbane Shop
+22 SnuggleFest
+23 Valencia
+24 Class Armors
+25 Misery
+26 Spell Scroll: Whirl Tide
+27 Spell Scroll: Fireball Z
+28 Spell Scroll: Star Forge
+29 Vampire Shop
+30 Werewolf Shop
+31 Werepyre
+32 Wizard Class
+33 Blarney
+34 Zombie Vegetables
+35 Custom Weapon
+36 Frostval
+37 Troll Club
+38 Paladin Class
+39 Seed
+40 The Maelstrom
+41 The Maelstorm 2
+42 Frostvale Village
+43 Adder's Forge
+44 Twig
+45 Falerin's Stack
+46 Boiler Room
+47 The Seed
+48 Frostval
+49 Werepyre
+50 Necromancer
+51 Bag o' Bones
+52 Light Orb
+53 Pae's Shop
+54 Finch
+55 The Future
+56 Geoto Member Shop
+57 Aerodu Member Shop
+58 Meduse Member Shop
+59 Fenris
+60 Fenris Final Shop
+61 Voting Booth
+62 The Hunter
+63 undefined
+64 Magical Plant
+65 Mist Maiden
+66 Smoke Mountain
+67 Crystal Cave
+68 Epheel
+69 Twilight Set I
+70 Twilight Set II
+71 Twilight Set III
+72 Overlord Set I
+73 Overlord Set II
+74 Overlord Set III
+75 NightBane
+76 Arena - Contender
+77 Frogzard Hunter
+78 Gattan Conqueror
+79 Gatta Island
+80 [Old TLAPD Shop]
+81 Mogga Idol
+82 Naab
+83 Mogloween '06
+84 Mogloween '07
+85 Epheel
+86 BeastMaster
+87 Igneus Member Shop
+88 Glacius Member Shop
+89 Dynami Member Shop
+90 Lucian Member Shop
+91 Nocturu Member Shop
+92 Higgins Real Estate
+93 Bulbug House Extras
+94 Huntress
+95 Krenos
+96 Spiver
+97 Pirate Class
+98 Ultimate Victory
+99 Eggstra-Secret Shop
+100 Eggciting Shop
+101 Weapons of Salvation
+102 Drakel
+103 Predecessor
+104 Dragoncat
+105 Muhrbles
+106 The Exodus
+107 Creation Orb 1
+108 Creation Orb 2
+109 Creation Orb 3
+110 Creation Orb 4
+111 Creation Orb 5
+112 Tralin
+113 ???
+114 Friendship Ring
+115 Koofu Kaller
+116 Sinister 7
+117 Car Trobble
+118 Legal Trobble
+119 Triple Trobble
+120 Trobble San
+121 Big Trobble
+122 Bugs
+123 Transfarmer
+124 Devourer Minions
+125 WarSmith
+126 WarSmith
+127 Pirates Vs. Ninjas
+128 Weapons of Heck
+129 Berserker
+130 Drakel Civil War
+131 Vartai
+132 Thunder Mountain 1
+133 Thunder Mountain 2
+134 Thunder Mountain 3
+135 Thunder Mountain 4
+136 Thunder Mountain 5
+137 Fighter Class
+138 Ninja Class
+139 Knight Class
+140 Dracomancer Class
+141 Groggle
+142 Groggle
+143 Groggle
+144 Superhero
+145 Protector
+146 Talk Like a Pirate Day
+147 Talk Like a Pirate Day Special
+148 Zombie Bane Sceptre
+149 Communicant Set I
+150 Communicant Set II
+151 Communicant Set III
+152 Shield of Chaos/Unity
+154 Clan Reward
+155 Scholar Class
+156 Nightbane
+157 Starter
+158 Frogzard Shapeshift
+159 Ballyhoo
+160 Eldron
+161 Zorbak Ebilzard
+162 Harvest Festival
+163 Gift Boxes!
+164 Joust Challenge
+165 Beleqwaya Special
+166 MogBusters
+167 Arena Preview: Runestaff
+168 Arena Preview: Bludgeon
+169 Arena Preview: Sun Sickle
+170 Xyphos
+171 Good Alignment
+172 Evil Alignment
+173 Doomquake
+174 Lava Drake
+175 Wizard Games 3
+176 Wizard Games 2
+177 Lolosia
+178 Fall of Granemor
+179 Bullyfighters
+180 Martial Artist 1
+181 Martial Artist 2
+182 Martial Artist 3
+183 Martial Artist 4
+184 Martial Artist 5
+185 Martial Artist 6
+186 Malzar
+187 Hollow's Garage
+188 Cor-Dem
+189 Overcharged Malzar
+190 Sword of Truths
+191 House Estate Items
+192 NerfLord
+193 Fall of Augerthorne
+194 Zardhunter 4
+195 Paxia Mecha
+196 Rise of Omega
+197 The Manifestation
+198 Ebil Scythes
+199 Devourer Final Battle
+200 4-Leaf Clover Field
+201 Firespawn Part 2
+202 Spellcraft
+203 Mech Attack
+204 Space Girls
+205 GraceFang / NightReign Cycle 1
+206 Frostval in July
+207 Maurinelle's Voice
+208 Pearapplos
+209 No Man's Land
+210 FunDead
+211 Z-Token Shop 2
+212 Mutant King 1
+213 Drako
+214 GraceFang / NightReign
+215 Xerxes One
+216 Jypley
+217 Mutant King 2
+218 No Man's Land War
+219 PieRat War
+220 TwEbil
+221 Lionidas
+222 Ventus and Anemos
+223 Xerxes Two
+224 Restoration of Beleqwaya
+225 Misfits
+226 GraceFang / NightReign
+227 Mogloween 08
+228 No Man's Land War 2
+229 NeightReign and GraceFang
+230 Vayu Set
+231 Fujin Set
+232 Ubear Set
+233 Magic
+234 Portals
+235 Frostval 08 One
+236 Frostval 08 Two
+237 Assassin
+238 Dinozard
+239 Trescol
+240 Trescol 2
+241 Permafrost
+242 Absolix
+243 Law of the Dragons
+244 Victimia
+245 Absolix War 1
+246 Paxia Defense
+247 Twig Skills
+248 Back to the Future
+249 Wabio
+250 Pirates v. Ninjas 09
+251 WarLich
+252 Food Chain
+253 Kairula 1
+254 Kairula 2
+255 Destroyer One
+256 NumNum
+257 Galvawk
+258 April Fool's Day 09
+259 Critters
+260 Live
+261 Tentei
+262 Destroyer2
+263 Eevolu
+264 Reevolu
+265 Treevolu
+266 Dynablade
+267 Absolix War 2
+268 Grabbi One
+269 Grabbi Two
+270 Grabbi Three
+271 Captain Briggs
+272 Kindred Set
+273 WF old items
+275 Twig Game
+277 WF Intro
+280 Slaxe
+282 Devourer Saga Items
+290 Ezzyriat
+293 Slaxe 2
+297 Resistance
+302 AQ WF Xover
+304 Wizards of Waverly Place
+305 Draschemus
+310 Shearhide AQ Low
+311 Shearhide AQ High
+313 Destroyer Part 3
+314 Terror
+317 Captain Munch
+318 WolfRiders
+319 Coraline - Real Mother
+320 Coraline - Real Mother
+321 Coraline - Other Mother
+322 Coraline - Other Mother
+324 Aelthai's Staff
+326 Legend of the Seeker
+327 Legend of the Seeker
+328 Legend of the Seeker
+329 Legend of the Seeker
+330 Bizarre Fleck 1
+331 Shards
+335 Frostval 09 One
+337 Frankenspine
+342 Rare Items
+343 Viridian
+344 Bizarre Fleck 2
+347 Counter-Assassin
+348 Frostval 09 Two
+350 Kragoth
+351 Frostval 09 Delivery
+352 Ruins of Rundlecrum
+353 Drakelcube P
+354 Slaying Bells
+355 Creptus
+358 Nefadon Lore
+360 Hans
+361 Insectozards
+364 Germinators
+365 Transmorphers
+366 Bizarre Fleck 3
+368 III Wind
+369 Opera House
+372 Transporter
+373 Kabak
+374 Dr. Jackel
+376 Talvan
+378 April Fools 2010
+380 Bizarre Fleck 4
+381 Bun-Bits
+383 Bizarre Flecks 5
+385 Kragoth 2
+388 Eclipsus 1
+389 Eclipsus 2
+390 Eclipsus 3
+391 Archmage
+392 Go Fly a Kite!
+393 Centaurion
+396 Fate
+397 Jypley 2
+398 Zardmaster: Evolution
+401 Nova Set
+402 Seekrat One
+405 Seekrat Two
+406 Scakk
+407 Phantasm
+408 JadeSword
+409 The Arden Door
+410 Seekrat Three: Diploma
+412 Doom Dragon
+413 GraceFang
+414 NightReign
+417 Thoru
+418 Inferno
+419 Noxious Chimeran Squire Z
+420 Noxious Chimeran Squire
+421 Baneful Chimeran Outrider
+422 Krunder
+423 Battleon's School
+424 Evil Substitute!
+425 Venomous Chimeran Knight
+426 Poisonous Chimeran Defender
+427 Toxic Chimeran Cavalier
+428 Virulent Chimeran Champion
+431 Truphma World Jumping
+432 Fusion Dragons
+433 Spinbrush
+434 Spinbrush
+435 Spinbrush
+436 Legend of the Seeker
+437 Fusion Dragons Two
+438 Division by Zero: Victory
+439 Seekrat Three: Victory
+440 Division by Zero: Defeat
+441 Division by Zero: Found
+442 Monstermaniacs
+443 Great Zard Hunt
+444 Xyfrags
+445 Zorbak's Wedding
+447 Frostval 2010 Part One
+448 Dragon's Secret 1
+449 Dragon's Secret 2
+450 BURP War
+451 Frostval 2010 war
+452 Chronomancer
+454 Robocockatrice
+456 Frostval 2011 Delivery
+457 Frostval Giftboxes - Ranged
+459 Nemesis
+460 Transience 1
+461 Transience 2
+462 Steampunk Undead
+463 Missing Miss Fixit
+464 Blarney
+466 Guardian Account
+467 Blood Crystal Axes
+468 Paintball War
+469 Nemesis II
+470 Nemesis III
+471 April Fools 2011
+472 Final Nemesis (Aided)
+473 Final Nemesis
+474 Treasure Hoard
+476 Emerge From Shadow
+477 Seekrat War
+478 Absolix Falling
+479 Mentana's Staves
+480 Awethur One
+481 Twily's shop
+482 Awethur Two
+484 Harmful Win
+485 Harmful Lose
+486 Harmful Mission
+487 Solaris
+488 Andy
+489 Bun Rangers
+490 Ice Orb
+491 Wind Orb
+492 Stretch
+493 UltraGuardian
+494 AntiGuardian
+495 Malinius Returns
+496 Hope Reborn
+497 Possession
+498 Parakkas
+499 Ramleon One
+500 Ramleon Two
+502 Reserved for Making Inventory Management Easier
+503 Reserved for Making Inventory Management Easier
+504 Terrible 12 Part 2A
+505 Terrible 12
+506 Terrible 12 3
+507 Paxia Rush Prequel
+508 Fire Orb
+509 Awethur vs Ghin
+510 Mass Mardar
+511 Paxia Rush war
+512 Paxia Rush Epilogue
+513 Guardian Dragon
+515 Mogloween Rares
+516 Harvenger
+517 Sariel's Vigil
+518 Morningstar Set
+519 Memet
+520 Spell Scroll: Blue Blazes
+521 Frostval Giftboxes - Melee
+522 Frostval Giftboxes - Magic
+523 Frostval Giftboxes - Armors
+524 Frostval Giftboxes - Shields
+525 Frostval Giftboxes - Scrolls
+526 Frostval Giftboxes - Pets
+527 Frostval Giftboxes - Miscs
+528 Spell Scroll: Seeing Red
+529 Spell Scroll: Green Envy
+530 The Hacker
+531 Morningstar - Token
+532 Morningstar - Least/Less
+533 Morningstar - Standard/Greater
+534 Morningstar - Epic/Flawless
+535 Flaming Undead
+536 The Hunted
+537 Frostval - Rise of Chillax!
+538 Mogzards
+540 Z-Blade
+541 Wyvern Riders
+542 Summon Amoria
+543 Baby Klangs
+544 Blackhawke's Breakup
+545 Usterik's Mecenary Shop
+546 Crusty Joe's Fish Shop
+547 Legend of Lady Tomo
+548 Artistic Ruins
+549 Ku Kontraptions
+550 Eggcellent Adventure
+551 Shock To The Heart
+552 April Fools 2012
+553 Bun-Rangers: Dragonzard Ocarina
+554 Bun-Rangers: Race Victory
+555 Seekrat: Breaking Point
+556 Seekrat: Final Countdown
+557 Hall of Memories
+558 Higgin's Real Estate
+559 Bizarre Flecks lll pt.1
+560 Buster Shard
+561 Dainashini
+562 Guardian Angel Elder
+563 Warlic's Haunted Shop
+564 Night Hunter
+565 Bizarre Flecks 3: Erebus Named
+566 Decimator Armor
+567 Bizarre Flecks 3: The Dark
+568 Rise of The Loremasters
+569 Bizarre Flecks 3: The Journey Home
+570 Chessmaster: Solar Shock
+571 Burro
+572 Reuse Me
+573 Overlord Set IV
+574 OverLord Set V
+575 Twilight Set IV
+576 Twilight Set V
+577 Building Truphma Part 1
+578 Building Truphma Part 2
+579 Airenal Upgrade Shop
+580 Building Truphma Part 3
+581 Shadows are Magic
+582 Ultimon Part 1
+583 Ultimon Part 2
+584 Like a Fox!
+585 Communicant set IV
+586 Communicant set V
+587 Paxian Patrols
+588 Death's Reaver
+589 Sacred Chicken
+590 Fisherman's Fall
+591 Light in the Darkness
+592 White Knight
+593 Sea Fiend
+594 10th Anniversary Shop
+595 10th Anniversary Bonanza
+596 Taladosian Set
+597 EbilCorp Invasion!
+598 War Totem
+599 10th Anniversary: Undead War
+600 10th Anniversary: Undead War (Easy)
+601 10th Anniversary Akriloth
+602 10th Anniversary Drakonnan
+603 10th Anniversary Drakonnan Amulet
+604 10th Anniversary Carnax
+605 10th Anniversary The Devourer
+606 10th Anniversary Seekrat
+607 Trombones V2
+608 ZombieLand
+609 Legends of Lore: Hydra
+610 Legends of Lore: Naga
+611 Legends of Lore: Minotaur
+612 Legends of Lore: ROC
+613 Legends of Lore: Guantlet
+614 Vakayshon Souvenirs
+615 Demon Warrior Wadrobe
+616 Legends of Lore: Guantlet
+617 Robina Advanced
+618 Battleon Nightmare!
+619 Rise of the Samurat!
+620 Shogun & Ansatsu
+621 Frostval Tree Decoration
+622 The Freeze-gion
+623 Frostval '12 Delivery
+624 AntiGuardian Returns
+625 TimeSlayer
+626 Lt Lore
+627 Rescue Lucretia
+628 Edge of Extinction
+629 Hydro Blaze Armoury
+630 Ep-Pig Gear
+631 Golden Quindent
+632 Matchmaker
+633 Darkheart Mirror
+634 Elements of Daw
+635 Junior Squires of Order
+636 Tribal Shaman Armor
+637 Isle of Drudgery
+638 Fortune TransPLANTed: Blarney War 2013
+639 Unzardly Terror
+640 Honed Vorpal Edge
+641 Night of the Grenwog
+642 VereWog
+643 Tinkerer Tech Show
+644 ShadowScythe Armory
+645 LuchaPork Locker
+646 Absol-ution Part 1
+647 Krenos' Cache
+648 K5 Kidnapping
+649 Absol-ution Part II
+650 Bloodthorn Armoury
+651 Poseidon Edge
+652 Absol-ution Part III
+653 Absol-ution Part IV
+654 10th Anniversary Boutique
+655 Cysero's Booth
+656 Xing Zang Armoury
+657 Azamay Golems: Granemor
+658 Golemancer Shop
+659 Geist Blade
+660 Midnight Dragon Blade
+661 Golden Giftbox Rares
+662 Golden Giftbox UltraRares
+663 Tera Suul's Triumph
+664 Patriot Katana
+665 Golden Giftbox Shop of Awesome!!!
+666 Golden Giftbox Common Shop
+667 Myth of Trigoras
+668 Paramount Studio
+669 'Emoran Knights
+670 Children of The Measurer
+671 Insult to Injury
+672 Chaos Spider's Lair
+673 Chaos Spider's Lair II
+674 Eternity Spear
+675 Frogzard Knights
+676 Barry Jotter
+677 Timekeeper's Temporal Storeroom
+678 Artix Attack Paladin Helms
+679 Rescue the Sacrifices
+680 Xov's Fire I
+681 Ghost Rusters
+682 Ultimon 3
+683 Glass Cannon Cupboard
+684 Demon Knights
+685 Advanced Knight Armours
+686 Dragon War Steel
+687 Ninemares Stable
+688 Dangerous Parallels
+689 Ill Radiance
+690 Kingdom Breaker
+691 Dragon Knight's Fang
+692 Dragon Knight's Scales
+693 Dragon Knight's Hide
+694 Dragon Knight's Crest
+695 The Past Unraveled
+696 Lost Helm of the Fallen
+697 Return of the Samurats!
+698 Airenal's Armory
+699 Flame Guardian Dragon
+700 Frostval 2013: Part I
+701 Frostval 2013: Part II
+702 Frostval 2014: Delivery
+703 Cryomancer's Chamber
+704 Ultimon IV
+705 Captain's Rhublade
+706 Funny But It's Knot
+707 Greenguard Armory
+708 Xov's Fire II
+709 Twig's Dream Shop
+710 SlumberShop
+711 Burning Passion Pit
+712 Ultimon Finale
+713 Ultimon Bonus
+714 War of the Fangs 2014
+715 ElBhe's Weapons of Lurve
+716 Deadly Chimeran Conquerer Set
+717 Fatal Chimeran Vindicator Set
+718 Legends of Lore: Cyclops
+719 Legends of Lore: Sphinx
+720 Legends of Lore: Chimera
+721 Legends of Lore: Gogg
+722 Legends of Lore: Gauntlet 2
+723 Legends of Lore: Gauntlet Challenge 2
+724 Dunamis's Pad
+725 Clyde's Forge
+726 BLARRRney War 2014
+727 Sacrifice of Yeeuh'ha
+728 Warlord Wardrobe
+729 Smittens' Demise
+730 Smittens's DOOM
+731 Amethyst Armory
+732 Babies of Battleon
+733 Facing the Darkness
+734 Eggstra-Secret Shop: Grenwog
+735 Eggstra-Secret Shop: Egg Staff
+736 Eggstra-Secret Shop: Eggsecutioner
+737 Eggstra-Secret Shop: Eggsessive Force
+738 Eggstra-Secret Shop: Eggscruciating Force
+739 Bundorable Form
+740 Blood Contract
+741 Battle of the Flowers
+742 Hydro Guardian Dragon
+743 Forest Demon Scythe
+744 Big Whomper
+745 Witching Staff
+746 Past Unravelled III
+747 Iz Mah Howse!
+748 Armory of Tera'Suul
+749 Celestial Haven Armory (Basic)
+750 Celestial Haven Armory (Advanced)
+751 Celestial Haven Medicines (Basic)
+752 Celestial Haven Medicines (Advanced)
+753 Celestial Haven Nursery (Basic)
+754 Celestial Haven Nursery (Advanced)
+755 Super Neko Nursery
+756 Celestial Haven Homes
+757 Clash in the West
+758 Weapons of Change I
+759 Weapons of Change II
+760 Leech Terrarium
+761 Beast Hostilities
+762 Fujin's Relics
+763 Imperial Regalia
+764 Chaos Armaments
+765 Necronvancer Goods
+766 Sinmaw Depths
+767 Healing Branch
+768 Mending Vines
+769 Purifying Pollen
+770 Catnip Senses
+771 Healing Seeds
+772 Drellie's Dwelling
+773 Seeking Silence
+774 Moglin Forest
+775 Doom Knight Armory
+776 Corrupted Dragon Pet Shop
+777 Dragon War Platinum
+778 Scurvy Shop
+779 White-Washed Walls
+780 Gambler's Den
+781 Lia Fa'il
+782 Spear of Lugh
+783 Claimh Solais
+784 Dagda's Cauldron
+785 Celtic Wheel Shield
+786 Armor of Llyr
+787 Omni Knight
+788 Shadowfire Axe
+789 Ode to Seasons
+790 The Dollmaker I
+791 Raffle Shop
+792 Griffin's Aviary
+793 The Dollmaker II
+794 Abyssal Armory
+795 Elite Abyssal Armory
+796 Arias's Dragonfly Hutch
+797 BURP War 2014
+798 Sinmaw Depths
+799 Radiant Guardian Dragon
+800 Frostval: IAWLOC
+801 Doom Knight Armory
+802 Frostval: IAWLOC: KSE
+803 Brackish Boutique
+804 Lively Hallows
+805 Lively Hallows War
+806 Twilly Kidnapped!
+807 Flareos Shop
+808 FireZard Shapeshift
+809 Pzycho Shapeshift
+810 Pheron Shapeshift
+811 Sea Squirt Shapeshift
+812 Gnat Shapeshift
+813 Cyclone Wyvern Shapeshift
+814 Two-Bear Shapeshift
+815 Gogg Shapeshift
+816 Stone Golem Shapeshift
+817 Trobble Shapeshift
+818 Baby Sacragon Shapeshift
+819 Raydius Dragon Shapeshift
+820 Lightbringer Shapeshift
+821 Banshee Shapeshift
+822 Brain Spider Shapeshift
+823 Tweenie Nightmare
+824 Cyber Assassin Shop
+825 Dragons Gone Wild 2015
+826 Death Flair Backstage
+827 Blarney War 2015
+828 Amazon Warehouse
+829 Hostage to Misfortune
+830 Thernda's Keep
+831 Canyon of Lost Souls
+832 Clowns vs Mimes
+833 Eggstra-Secret Shop: Carrots
+834 Eggstra-Secret Shop: Nerfit
+835 Past Unravelled V
+836 Big Trobble
+837 Crystalpyre Armory
+838 Legendary Loot
+839 Mythical Loot
+840 Sky Dragonblades
+841 WarpWars
+842 Minotaur Maze
+843 Chamber of Akriloth
+844 Into the Darkness
+845 Liliana's Request
+846 Diamonds and Explosions
+847 Arena of Enthusiasts
+848 Enthusiasts' Gauntlet
+849 An Unexpected Development
+851 Title Shop
+852 Lupin II
+853 Lupin II - Special Title
+854 Mythical Armory
+855 Nerd Crusher
+856 Burning Questions
+857 Artix's Spare Weaponry
+858 Play The Harpy
+859 Spell Scroll: Soul Steal
+860 Spell Scroll: Frigid Fury
+861 Layard's Deception
+862 Clyde's Forge
+863 Icecalibur
+864 Moglin Sword
+865 Searing Shop
+866 Raffle Shop II
+867 Arena - Conqueror
+868 Arena - Gladiator
+869 Arena - Titan
+870 Arena - Duelist
+871 Arena - Master Duelist
+872 Arena - Champion
+873 Arena - Grand Champion
+874 Arena - ArchGladiator
+875 Arena - ArchGladiator++
+876 Arena - Undefeatable
+877 Joust Challenge Final
+878 Condum Corruption
+879 Rise of the Shadow Council
+880 Elightus Shop
+881 Riddle of the Sphinxes
+882 Osiris Set
+883 Scarab Set
+884 King's Reign Shop
+885 Ghost's and Moglins
+886 Infinity Lance Armoury
+887 Fallen King's Shop
+888 Pirate vs Pirate?
+889 Cyclone Guardian Dragon
+890 Frostval'15: A Chilly Request
+891 Frostval'15: A Stolen Fruitcake
+892 Frostval'15: Fruitcake War
+893 Frostval'15: Gift Delivery
+894 Frogzard Challenge
+895 Tooty fruitcake zard
+896 X Marks the Spot
+897 Shop Restricted by Character Clan (???)
+898 Wukong Armory
+899 War of the Seas
+900 Blade of Victory
+901 Dark Blade of Victory
+902 Greater Dark Blade of Victory
+903 Bright Blade of Victory
+904 Greater Bright Blade of Victory
+905 Date Night
+906 Lazer Clothiers
+907 Janitors on Strike
+908 Keyote the heartcrusher
+909 Xanatos Speed Chess
+910 Blarney War'16: LepreZards!
+911 Armory of Light Realm
+912 Eggstra-Secret Shop: Tyrannochicken Rider
+913 Eggstra-Secret Shop: Invoke Tyrannochicken
+914 Emodjinn
+915 Frogzard Hunter 1
+916 Yulgar's Armoury
+917 Yulgar's Advanced Armoury
+918 Yulgar's Exceptional Armoury
+919 Yulgar's Storage
+920 Yulgar's Warehouse
+921 Yulgar's Emporium
+922 Frogzard Hunter 2
+923 Creation Burst
+924 Arctic Tornado
+925 Season of Choices
+926 Starslayer's Armoury
+927 Thursday the 12th
+928 Spell Scroll: Gravity Crush
+929 Spell Scroll: Thunder Wave
+930 Armory of Akriloth
+931 Giant War One
+932 Giant War Two
+933 Samurai's Light Katana
+934 Iron Golem
+935 Gemini Monks
+936 Giant War Three
+937 Samurai's Honourable Katana
+938 DoRay
+939 Dragon Stables
+940 Giant War Four
+941 Kickstarter Heroes
+942 Synaptic Spell Shop
+943 Custom Pets
+944 Beachmancer Garb
+945 Beachmancer Blade
+946 Scuba Mask
+947 Caecus
+948 Griffin Stables
+949 Volcanic Magic Shop
+950 Dessert Set 1
+951 Dessert Set 2
+952 Octopuses
+953 Mana Golem
+954 Sekking the Seekers
+955 Pound the Poachers
+956 Void Title Shop
+957 Mysterious Artifact
+958 Scarred Crow Shop
+959 Grand Pumpkin
+960 Underbeast's Hoard
+961 Armory of the Under Realm
+962 Shop Data Error (Blank Shop)
+963 Harvet Festival'16
+964 Shadowwalker Storeroom
+965 Save the Sweaters!
+966 Attack of the Sweater Zombies
+967 Frostval'16 - Gift Delivery
+968 Shop Data Error (Blank Shop)
+969 Chilly's Hut
+970 Voltaic Guardian Dragon
+971 The Return of Artix!
+972 Rooster Coop
+973 Frogzard Hunter Part 3
+974 Frogzard Hunter Part 3: Summons 1
+975 Frogzard Hunter Part 3: Summons 2
+976 When Powers Collide
+977 More Troofles, More Troubles
+978 Blazing Dragon Blade
+979 Necragon Armory
+980 Necragon Incursion
+981 Blarney 2017 - Battle at Sea
+982 Streamer Promo Shop
+983 Heck's Kitchen
+984 Nowhere - Lantern of Souls
+985 Nowhere - Reaper of Souls
+986 Nowhere - Angel of Souls
+987 Grenwog - Double o' Dozen
+988 Chupacabras from Outer Space
+989 Underworld: The Hunt for Hollow
+990 Zealot Ztoreroom
+991 A Bustle in Hedgerow
+992 The Moglin Maniac!
+993 War of the Underwyrm
+994 Sanctuary of Custosilva
+995 Underworld P3: Race to Free Hollow
+996 War For the Fangs
+997 Water Lord's Deep
+998 Attack on Sea Titan
+999 Underworld Finale
+1000 Steam Raider
+1001 Steam Gauge
+1002 Boiler Buddy
+1003 Steam Saw
+1004 Dynamo Defender
+1005 Wicked King Challenge Battle
+1006 Mecha Knight Powersuit
+1007 Mecha Knight Defender
+1008 Mecha Knight Armoury
+1009 Model 294
+1010 Cockatoo Cannoneer Cage
+1011 Treasure Hunt Challenge Battle
+1012 Treasure Hunt
+1013 Mecha Knight Power Core
+1014 Grakma Weaponry
+1015 Grakma Shield
+1016 Grakma Horn
+1017 Rose Garden
+1018 War of the Fangs: Revival
+1019 Graverider Stable
+1020 Champion Energy Set
+1021 Chrono Shop 18
+1022 Misfits Ornament
+1023 Islands Of Misfit Ornament
+1024 Lagoon Leviathan
+1025 Gift Delivery 2017
+1026 Artic Guardian Form
+1027 Fate Of The Uncreated
+1028 Faces For Guys
+1029 Faces for gals
+1030 Ztoken FAce Shop
+1031 In the land That never Was
+1032 Season Of Shipping
+1033 Black Diamond Dragon Blade
+1034 Protoparagon MK 2
+1035 Protoparagon MK 3
+1036 Critical Hits Music
+1037 Blarney Wars 2018 Ninja Chauns
+1038 Fire MAntik Bow
+1039 Torch Foot Brazier
+1040 Gorarog Form
+1041 Egads Exploding Eggs
+1042 Sabre Toothed Grenwog
+1043 Return To Order
+1044 Out Of Order
+1045 Iron Bloom Garden
+1046 Katshiro Dojo
+1047 Hans Blaster
+1048 Mookie Twilly
+1049 Magical Empdorium
+1050 Merchandise Booth
+1051 Katshiro Master Dojo
+1052 Frigid Forge
+1053 Morningstar Title
+1054 Dragon Gones Wild 2018
+1055 Chessmaster: Dark Tidings
+1056 Blood Ruby Salvage
+1057 Beach Bod
+1058 Shinyaro Armory
+1059 Shinyaro Title
+1060 ChessMaster:Cavernous Crhonicles
+1061 Royal bakery
+1062 ChessMaster:Going Kukoo
+1063 Mogdin
+1064 Arcane Magic
+1065 Velocizards
+1066 Rhubzard
+1067 Pirate Scholar
+1068 War Of The Seas:Soothing The Sarkanians
+1069 Spirit Of Mogloween
+1070 Hollows Hideout
+1071 Legion Pumpkin Slayer
+1072 Moglomancer Stash
+1073 MogLin Twilly Plush
+1074 Moglin Zorbak Plush
+1075 Moglin Twig Plush
+1076 Moglin Memet Plush
+1077 Moglin Mort Plush
+1078 Moglin Quibble Plush
+1079 Moglin Scurvy plush
+1080 Moglin Rex plush
+1081 Moglin Nugget Plush
+1082 moglin Scourge Plush
+1083 moglin Cupcake Plush
+1084 Moglin Zilla Plush
+1085 Rastille Keep
+1086 Spirit Of harvest
+1087 Stolen Candy
+1088 Chronomancer 2019 Calender
+1089 Restricted
+1090 Geocastellum Intro
+1091 Geocastellum Intro (Save berry)
+1092 Geocasttellum Token/Least
+1093 Geo Lesser/Standard
+1094 Geo Greater/Epic
+1095 Geo Flawless/Mythical/Legendary
+1096 Dark Armory Of Tera Suul
+1097 Spirit Of Frostval
+1098 Harvest fest 2018 Teeming Mutant
+1099 Geo Epic
+1100 Same as 1095
+1101 Nowhere Skull Face
+1102 Frostval 2018 The Nightmare Upon Frostval
+1103 Guardian Dragon Earthen Armory
+1104 Frostval 2018 Frostval A Sham
+1105 Mister/Miss Frostval Title
+1106 Frostval 2018 Gift Delivery
+1107 Moglin Kickbacker Plush
+1108 Armory Of Custosilva
+1109 Spirit Of Love
+1110 Void Dragon Queen
+1111 War Of the Fangs: Resurrection
+1112 Snugglefest Obsession
+1113 Skill Scroll Blazing Phoenix
+1114 Skill Scroll Aqua Edge
+1115 Skill Scroll terra Crunch
+1116 Skill Scroll radiant Might
+1117 Skill Scroll Artic impact
+1118 Skill SCroll Gale Impact
+1119 Skill Scroll Electro Impact
+1120 Skill Scroll Umbral Impact
+1121 Protoparagon MK4
+1122 Spirit Of Luck
+1123 Blarney 2019 reef Financing
+1124 Spirit Of Grenwog
+1125 Blarney Xpress
+1126 Nothing To See Here
+1127 Skill Scroll Fire Dragon
+1128 Skill Scroll Thunder Wave Blade
+1129 Skill Scroll terror Fist
+1130 Skill Scroll Sneak Strike
+1131 Skill Scroll Dragonslayer Aura
+1132 Sneak Garb
+1133 Golem Guard
+1134 Battle Rib Blade
+1135 La Tienda
+1136 Eggstra Egg Shop Grenwog Hood
+1137 Greenwog Trouble A Poaches
+1138 Arena Of Enthusiast Moderator
+1139 Arena Of Enthusiast Challenge Gauntlet
+1140 Pinata Sombrero
+1141 Pinata maraca
+1142 Pinata Painting
+1143 The Umazon Stir
+1144 The Last Umazen City
+1145 Weredragon Breath
+1146 Mog Toybox
+1147 Burning Soltices War Approaches
+1148 Burning Soltices War Dragon
+1149 The'Galin's Icebox
+1150 Umazen Civil War
+1151 Armoury of the Fire Realm
+1152 Burning Solstice: The Greatest Warrior I
+1153 Desert Raider Armor
+1154 Desert Raider Weapon
+1155 Sand Scurrier Den
+1156 Desert Raider Guard
+1157 Desert Raider Helm
+1158 Loremaster's Memorial
+1159 Burning Solstice: The Greatest Warrior II
+1160 Shop Restricted by Character Clan (???)
+1161 Spirit of Change
+1162 Superior Knowledge
+1163 Shop Restricted by Character Clan (???)
+1164 Burning Solstice: The Choice to Fall
+1165 Burning Solstice: The Choice to Fall BONUS
+1166 Burning Solstice: The Question
+1167 Pentamad Head's Closet
+1168 Burning Solstice: The Answer
+1169 Zombie Hunter Arsenal
+1170 The Laundergeist
+1171 Frostgale: The Northern Expedition
+1172 Seekrat's Den
+1173 Zhilo's Haunting
+1174 Mogloween: Pumpkin Spies
+1175 Frostwalker's Secret
+1176 Spirit of Freedom
+1177 Harvest Festival 2019: The Waning of Famine
+1178 Frostgale: LeastZ to Mythical
+1179 Frostgale: Legendary
+1180 Underworld Chrono 2020 Calendar
+1181 Hollowborn Evoker
+1182 Hollowborn Conjuror
+1183 Guardian Dragon's Shadowy Armory
+1184 Frostval '19: Chosen-ismal
+1185 Frostval '19: Test of Thunder [Trickster]
+1186 Frostval '19: Test of Thunder [Phalanx]
+1187 Frostval '19: Test of Thunder [Charging Thunder]
+1188 Frostval '19: Test of Thunder [Champion Breaker]
+1189 Frostval '19: Test of Thunder [Lord of Thunder]
+1190 Frostval '19: Frost Tide, Yuletide!
+1191 Woolzard
+1192 Shiny Woolzard
+1193 Frostgale Bonus: Weapon Fangs
+1194 Frostgale Bonus: Guest Claws
+1195 Frostgale Bonus: Shield Scales
+1196 Frostgale Bonus: Trinket Relics
+1197 Legion Paragon Fiend Set
+1198 Legion Paragon Fiend Stable
+1199 Legion Paragon Fiend Armaments
+1200 Devourer Saga: Sage Uldor
+1201 Devourer Saga: Red Fog
+1202 Devourer Saga: A Hairy Situation
+1203 Devourer Saga: Dark Sickness
+1204 Blarney 2020: Gold Thriller
+1205 April Fool's 2020: Abducted!
+1206 Grenwog: Raiders of the Lost Yolk
+1207 Eggstra-Secret Shop: Mutant Eggheads
+1208 Eggstra-Secret Shop: Mutant Egg Shields
+1209 Eggstra-Secret Shop: Perpetual Yolk Extractor
+1210 Eggstra-Secret Shop: Baby Egg
+1211 Spirit of Rejuvenation
+1212 Una Poca de Gracia
+1213 Devourer Saga: Big Trouble in Little Granemor
+1214 Devourer Saga: The Vision
+1215 Devourer Saga: Dragonstone
+1216 Devourer Saga: Into Fangmaw
+1217 Dark Accession: Void Dragon War
+1218 Devourer Saga: Sun and Sand (Challenge Battle)
+1219 Spirit of Summer
+1220 Paladin Avenger
+1221 Dragonlorn Keep: Darker Memories
+1222 Starberry Shieldcake
+1223 Devourer Saga: Rogue
+1224 Dragonlorn Keep: The Frontier of Perdition
+1225 Dragonlorn Keep: The Far West
+1226 Dragonlorn Keep: Sorrow's Reach
+1227 Spirit of Knowledge
+1228 Memorial Shop
+1229 Diamond Dog House
+1230 Sunscale's Keep
+1231 Sacred Paladin Armoury
+1232 Dragonlorn Keep: Forlorn Wake
+1233 Doombinder Challenge Shop
+1234 Dragonlorn Keep: Last Watch
+1235 Haunted Dragonlord helm
+1236 Dragonlorn Keep: Northern Wing
+1237 Devourer Saga: Cyclops Challenge
+1238 Chrono Dracomancer 2021 calendar
+1239 Paladin Advanced Armours
+1240 Doomlight Eternal Set
+1241 Doomlight Eternal
+1242 Doomlight Eternal Armaments
+1243 Doomlight Shadowspark Set
+1244 Doomlight Shadowspark Armor
+1245 Doomlight Shadowspark Armaments
+1246 Necromoglin's Hideout
+1247 Silk-Screamer Parlour
+1248 Mogloween : The sister's revenge
+1249 Dragonlord Set 1
+1250 Dragonlord Set 2
+1251 Dragonlord set 3
+1252 Dragonlord set 4
+1253 Custom Faces
+1254 Dragonlord keep : Obsidian roots
+1255 Harvest 2020 : Waning of pestilence
+1256 Frostval'20 : Welcome Home
+1257 Frostval'20 : welcome home challenge
+1258 Guardian Dragon's Fiery Armory
+1259 Spirit of renewal
+1260 Frostval'20 : All alone
+1261 Frostval'20 : Gift delivery
+1262 Snugglefest'21 : Last resort
+1263 Snugglefest'21 : last resort
+1264 Snugglefest'21 : last resort
+1265 Legion dojo
+1266 Devourer saga : Eigerbuld
+1267 Baorus the Deathwright
+1268 Blarney'21 : Love is in the air
+1269 April Fools'21 : Utgard,Loco!
+1270 April Fools'21 : Utgard,Loco! (Challenge)
+1271 Grenwog : To spring a trap
+1272 Bun-Banneret Bunker
+1273 grenwog festival : hare raiser
+1274 grenwog festival : grenwog slayer
+1275 Doomlight FrostRipper Set
+1276 Doomlight TremorHide Set
+1277 Pinata:El Santo Moglin
+1278 Pinata:Machete de Puebla
+1279 Wyrd West Rescue
+1280 Wabio's wardrobe
+1281 Necromancer apprentice
+1282 The war between shadows:encroaching hunger
+1283 The war between shadow: once upon a scheme
+1284 the war between shadows : shadowfall 1
+1285 the olympax
+1286 Moglinus shopimus
+1287 the war between shadows:land of returning evil
+1288 Carnax arms
+1289 Blueberry shieldcake
+1290 frostwyrm riding armor
+1291 frostwyrm totem pet
+1292 Frostwyrm weaponry
+1293 frostwyrm defender
+1294 frostwyrm mask
+1295 frostwyrm rider faces
+1296 the war between shadows:shadowfall 2
+1297 liar's pilgrimmage
+1298 the war between shadows:name you deceit
+1299 TWBS : I name you deceit challenge mode
+1300 Inventory management locker
+1301 Bronze guardian dragon jr. nest
+1302 valient hero shield
+1303 arcane necromancer armory
+1304 necromancer advanced armory
+1305 moglicorn booster pet
+1306 mogloween:zombie's landing
+1307 Lost talon : least
+1308 Lost talon : lesser + standard
+1309 Lost talon : greater + epic
+1310 Lost talon : flawless + mythical
+1311 Lost talon : legendary
+1312 chaosborn raider
+1313 chaosborn agent
+1314 Harvest festival 2021 : the ratty crown
+1315 Continuum chronomancer 2022 calendar
+1316 quantum chronomancer 2022 calendar
+1317 frostval'21 : curse of rat queen
+1318 frostval'21 : wood you kindly
+1319 Guradian Dragon's watery armory
+1320 frostval'21 : the kings of rats and tatters
+1321 shadowrend armory
+1322 legion's violence
+1323 boreal cavalier weapons
+1324 boreal cavalier shield
+1325 boreal cavalier misc
+1326 boreal cavalier faces
+1327 shadow phoenix weapons
+1328 shadow phoenix shields
+1329 shadow phoenix misc
+1330 shadow phoenix faces
+1331 snugglefest'22 : express shipping
+1332 lost talon: parting whispers
+1333 doomlight emberheart set
+1334 chickencow nest
+1335 legion deery
+1336 blarney'22:The fortune thief
+1337 april fools'22: Fool me twice
+1338 grenwog'22 : overgrowth
+1339 Void challenge: Avian trio
+1340 pinata : quetzel
+1341 squee booster pet
+1342 mother's day limited time shop
+1343 cinco de mayo limited time shop
+1344 thursday the 12th limited time shop
+1345 may the 4th limited time shop
+1346 films/games? limited time shop
+1347 birthday limited time shop
+1348 pride month limited time shop
+1349 sharks! limited time shop
+1350 independence day limited time shop
+1351 father's day limited time shop
+1352 summer season limited time shop
+1353 fall season limited time shop
+1354 spring season limited time shop
+1355 winter season limited time shop
+1356 chessmaster: attraction: black king's decoy
+1357 archer class
+1358 elite archer
+1359 orange shieldcake
+1360 chessmaster: pawn race
+1361 devourer saga : the beacon
+1362 devourer saga : A day at the inn
+1363 Umbralwalker of time
+1364 chessmaster: checkmate
+1365 chessmaster : checkmate challenge
+1366 entropy : deren asunder
+1367 warmaster dragon rider
+1368 paleskull prismatic riding armor
+1369 paleskull riding armor
+1370 paleskull pet
+1371 paleskull weaponry
+1372 paleskull shield
+1373 paleskull helm misc
+1374 paleskull faces
+1375 emerald rose garden
+1376 20th anniversary
+1377 elite fighter
+1378 entropy: evil unleashed
+1379 harvest golem leftovers
+1380 Storm of the Century: Flow and Stasis
+1381 Megoi-Mart
+1382 Storm of the Century: Growth and Decady
+1383 Storm of the Century: Life and Death
+1384 Storm of the Century: Destruction and Renewal
+1385 Harvest Season Limited-Time Shop
+1386 Mogloween: Cauldron Trouble
+1387 Infernal Champion
+1388 Abyssal Champion
+1389 Frostval Season Limited-Time Shop
+1390 Harvest Festival 2022: Bark and Bite
+1391 Paladin Chronomancer 2023 Calendar
+1392 Dark Paladin Chronomancer 2023 CE Calendar
+1393 Devoured Earth Misc
+1394 Devoured Earth Weapons
+1395 Devoured Earth Shield
+1396 Devoured Earth Faces
+1397 Shadowstalker Misc
+1398 Shadowstalker Weapons
+1399 Shadowstalker Shield
+1400 Shadowstalker Faces
+1401 New Year Season Limited-Time Shop
+1402 Frostval '22: Home-Sweet Home
+1403 Guardian Dragon's Turbulent Armory
+1404 Frostval '22: Sweet Dreams
+1405 Frostval '22: No Place Like Home
+1406 Blarney '23: Lepre-CON!
+1407 Legion Shieldcake
+1408 Legion-Deery
+1409 Snugglefest '23: Love or Thunder?
+1410 Devourer Saga: Huntress Vs. Yulgar
+1411 Devourer Saga: Book of Salvation
+1412 Devourer Saga: Jail Time
+1413 April Fools' Season Limited-Time Shop
+1414 Doomlight Skyshattered Set
+1415 Burpsy's Jackpot
+1416 Grenwog Festival Limited-Time Shop
+1417 April Fools 2023: Fortune's Return
+1418 Grenwog '23: Frenzy
